@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+#number2 {
+    color: blue;
+    font-size: larger;
+}
+
+.numbers {
+    background-color: lightcoral;
+}
+
+.cooler {
+    font-size: larger;
+}
+
+#number4 {
+    font-weight: bold;
+    background-color: lightgreen;
+}
